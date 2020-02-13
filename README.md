@@ -1,5 +1,5 @@
 # decimalToTime
-Script that transforms decimal time into normal time format ( ex. 300 = 23m 10s)
+Script that transforms decimal time into normal time format ( ex. 883 = 53m 37s)
 
 Install Chrome extension "Scriptlets"
 
