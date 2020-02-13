@@ -12,6 +12,6 @@ With this snipet of javascript we can easily discover that a decimal time like .
 * Click on it and the translation will appear in a green box just below it
 
 ### How to get it
-* Install Chrome the extension called "Scriptlets"
+* Install Chrome extension called "Scriptlets"
 * Open it and paste the code from decimalToTime.js
 * Click Run and enjoy.
